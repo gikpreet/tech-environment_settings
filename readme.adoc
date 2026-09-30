@@ -1,67 +1,67 @@
 = 환경 설정 및 소프트웨어 설치
 
 1. Java Development Kit 설치
-* link:./01_JDK/01_install_jdk_on_windows_11.adoc[Windows 11에서 Java Development Kit 설치]
-* link:./01_JDK/02_install_jdk_on_macos.adoc[macOS에서 Java Development Kit 설치]
-* link:./01_JDK/03_install_jdk_on_linux.adoc[Linux(Ubuntu)에서 Java Development Kit 설치]
+* link:./contents/01_JDK/01_install_jdk_on_windows_11.adoc[Windows 11에서 Java Development Kit 설치]
+* link:./contents/01_JDK/02_install_jdk_on_macos.adoc[macOS에서 Java Development Kit 설치]
+* link:./contents/01_JDK/03_install_jdk_on_linux.adoc[Linux(Ubuntu)에서 Java Development Kit 설치]
 2. Web Server 설치
 * 1. Apache 설치
-** link:./02_web_server/01_apache/01_install_apache_on_windows_11.adoc[Windows 11에서 Apache 설치]
-** link:./02_web_server/01_apache/02_install_apache_on_linux.adoc[Linux(Ubuntu)에서 Apache 설치]
+** link:./contents/02_web_server/01_apache/01_install_apache_on_windows_11.adoc[Windows 11에서 Apache 설치]
+** link:./contents/02_web_server/01_apache/02_install_apache_on_linux.adoc[Linux(Ubuntu)에서 Apache 설치]
 * 2. Nginx 설치
-** link:./02_web_server/02_nginx/01_install_nginx_on_windows_11.adoc[Windows 11에서 Nginx 설치]
-** link:./02_web_server/02_nginx/02_install_nginx_on_macos.adoc[macOS에서 Nginx 설치]
-** link:./02_web_server/02_nginx/03_install_nginx_on_linux.adoc[LInux(Ubuntu)에서 Nginx 설치]
+** link:./contents/02_web_server/02_nginx/01_install_nginx_on_windows_11.adoc[Windows 11에서 Nginx 설치]
+** link:./contents/02_web_server/02_nginx/02_install_nginx_on_macos.adoc[macOS에서 Nginx 설치]
+** link:./contents/02_web_server/02_nginx/03_install_nginx_on_linux.adoc[LInux(Ubuntu)에서 Nginx 설치]
 3. WAS 설치
 * 1. Tomcat 설치
-** link:./03_WAS/01_tomcat/01_install_tomcat_on_windows11.adoc[Windows 11에서 Tomcat 설치]
-** link:./03_WAS/01_tomcat/02_install_tomcat_on_macos.adoc[macOS에서 Tomcat 설치]
-** link:./03_WAS/01_tomcat/03_install_tomcat_on_linux.adoc[Linux(Ubuntu)에서 Tomcat 설치]
+** link:./contents/03_WAS/01_tomcat/01_install_tomcat_on_windows11.adoc[Windows 11에서 Tomcat 설치]
+** link:./contents/03_WAS/01_tomcat/02_install_tomcat_on_macos.adoc[macOS에서 Tomcat 설치]
+** link:./contents/03_WAS/01_tomcat/03_install_tomcat_on_linux.adoc[Linux(Ubuntu)에서 Tomcat 설치]
 4. Database Management System 설치
 a. MySQL 설치
-* link:./04_Database/01_mysql/01_mysql_on_windows11.adoc[Windows 11에서 MySQL 설치]
-* link:./04_Database/01_mysql/02_mysql_on_macos.adoc[macOS에서 MySQL 설치]
-* link:./04_Database/01_mysql/03_mysql_on_ubuntu8.adoc[Linux(Ubuntu)에서 MySQL 설치]
-* link:./04_Database/01_mysql/04_mysql_on_docker.adoc[Docker를 사용하여 MySQL 실행 환경 구성]
+* link:./contents/04_Database/01_mysql/01_mysql_on_windows11.adoc[Windows 11에서 MySQL 설치]
+* link:./contents/04_Database/01_mysql/02_mysql_on_macos.adoc[macOS에서 MySQL 설치]
+* link:./contents/04_Database/01_mysql/03_mysql_on_ubuntu8.adoc[Linux(Ubuntu)에서 MySQL 설치]
+* link:./contents/04_Database/01_mysql/04_mysql_on_docker.adoc[Docker를 사용하여 MySQL 실행 환경 구성]
 b. Microsoft SQL Server 설치
 * Windows 11에서 Microsoft SQL Server 설치
-* link:./04_Database/02_mssql/02_mssql_on_macos.adoc[macOS에서 Azure Data Studio 설치]
-* link:./04_Database/02_mssql/03_mssql_on_ubuntu.adoc[Linux(Ubuntu)에서 Microsoft SQL Server 설치]
-* link:./04_Database/02_mssql/04_mssql_on_docker.adoc[Docker를 사용하여 Microsoft SQL Server 실행 환경 구성]
+* link:./contents/04_Database/02_mssql/02_mssql_on_macos.adoc[macOS에서 Azure Data Studio 설치]
+* link:./contents/04_Database/02_mssql/03_mssql_on_ubuntu.adoc[Linux(Ubuntu)에서 Microsoft SQL Server 설치]
+* link:./contents/04_Database/02_mssql/04_mssql_on_docker.adoc[Docker를 사용하여 Microsoft SQL Server 실행 환경 구성]
 c. PostgreSQL 설치
-* link:./04_Database/03_postgresql/01_postgres_on_windows11.adoc[Windows 11에서 PostgreSQL 설치]
-* link:./04_Database/03_postgresql/02_postgres_on_macos.adoc[macOS에서 PostgreSQL 설치]
-* link:./04_Database/03_postgresql/03_postgres_on_ubuntu.adoc[Linux(Ubuntu)에서 PostgreSQL 설치]
-* link:./04_Database/03_postgresql/04_postgres_on_docker.adoc[Docker를 사용하여 PostgreSQL 실행 환경 구성]
+* link:./contents/04_Database/03_postgresql/01_postgres_on_windows11.adoc[Windows 11에서 PostgreSQL 설치]
+* link:./contents/04_Database/03_postgresql/02_postgres_on_macos.adoc[macOS에서 PostgreSQL 설치]
+* link:./contents/04_Database/03_postgresql/03_postgres_on_ubuntu.adoc[Linux(Ubuntu)에서 PostgreSQL 설치]
+* link:./contents/04_Database/03_postgresql/04_postgres_on_docker.adoc[Docker를 사용하여 PostgreSQL 실행 환경 구성]
 d. Oracle 설치
-* link:./04_Database/04_oracle/01_oracle_on_windows11.adoc[Windows 11에서 Oracle Developer 설치]
-* link:./04_Database/04_oracle/04_oracle_on_docker.adoc[Docker를 사용하여 Oracle 실행 환경 구성]
-* link:./04_Database/04_oracle/05_oracle_on_docker_on_macOS.adoc[macOS에서 Docker를 사용하여 Oracle 실행 환경 구성]
+* link:./contents/04_Database/04_oracle/01_oracle_on_windows11.adoc[Windows 11에서 Oracle Developer 설치]
+* link:./contents/04_Database/04_oracle/04_oracle_on_docker.adoc[Docker를 사용하여 Oracle 실행 환경 구성]
+* link:./contents/04_Database/04_oracle/05_oracle_on_docker_on_macOS.adoc[macOS에서 Docker를 사용하여 Oracle 실행 환경 구성]
 5. 데이터 분석 환경 구성
 a. Anbaconda 설치
-* link:./01_anaconda_windowws_11.adoc[Windows 11에서 Anaconda 설치]
-* link:./02_anaconda_macos.adoc[macOS에서 Anaconda 설치]
-* link:./03_anaconda_ubuntu_2204..adoc[Linux(Ubuntu)애서 Anaconda 설치]
+* link:./contents/01_anaconda_windowws_11.adoc[Windows 11에서 Anaconda 설치]
+* link:./contents/02_anaconda_macos.adoc[macOS에서 Anaconda 설치]
+* link:./contents/03_anaconda_ubuntu_2204..adoc[Linux(Ubuntu)애서 Anaconda 설치]
 6. .NET 환경 설치
-* link:./06_Dotnet/01_Dotnet_on_windows.adoc[Windows 11에서 .NET 환경 설치]
-* link:./06_Dotnet/02_Dotnet_on_macOS.adoc[macOS에서 .NET 환경 설치]
-* link:./06_Dotnet/03_dotnet_on_linux.adoc[Linux(Ubuntu)에서 .NET 환경 설치]
+* link:./contents/06_Dotnet/01_Dotnet_on_windows.adoc[Windows 11에서 .NET 환경 설치]
+* link:./contents/06_Dotnet/02_Dotnet_on_macOS.adoc[macOS에서 .NET 환경 설치]
+* link:.contents//06_Dotnet/03_dotnet_on_linux.adoc[Linux(Ubuntu)에서 .NET 환경 설치]
 7. Docker 설치
-* link:./07_Docker/01_install_dockerce_rocky.adoc[Rocky Linux 9에서 docker 설치]
-* link:./07_Docker/02_install_docker_ubuntu.adoc[Ubuntu에 Docker 설치]
+* link:./contents/07_Docker/01_install_dockerce_rocky.adoc[Rocky Linux 9에서 docker 설치]
+* link:./contents/07_Docker/02_install_docker_ubuntu.adoc[Ubuntu에 Docker 설치]
 8. Hypervisior 설치
-* link:./08_hypervisior/01_ubuntu_on_macOS.adoc[macOS에 Ubuntu Linux 설치]
+* link:./contents/08_hypervisior/01_ubuntu_on_macOS.adoc[macOS에 Ubuntu Linux 설치]
 9. 도구 설치
-* link:./09_Tools/01_Appcat_dotnet_cli.adoc[APPCAT - .NET CLI 설치]
-* link:./09_Tools/02_windows_subsystem_linux.adoc[WSL (Windows Subsystem for Linux) 설치]
+* link:./contents/09_Tools/01_Appcat_dotnet_cli.adoc[APPCAT - .NET CLI 설치]
+* link:./contents/09_Tools/02_windows_subsystem_linux.adoc[WSL (Windows Subsystem for Linux) 설치]
 10. Microsoft Azure 관련 도구 설치
 a. Azure Cli 설치
-* link:./10_microsoft_azure/azure_cli/01_azure_cli_windows.adoc[Windows 11에 Azure CLI 설치]
-* link:./10_microsoft_azure/azure_cli/02_azure_cli_macos.adoc[macOS에 Azure CLI 설치]
-* link:./10_microsoft_azure/azure_cli/03_azure_cli_linux.adoc[Linux에 Azure CLI 설치]
+* link:./contents/10_microsoft_azure/azure_cli/01_azure_cli_windows.adoc[Windows 11에 Azure CLI 설치]
+* link:./contents/10_microsoft_azure/azure_cli/02_azure_cli_macos.adoc[macOS에 Azure CLI 설치]
+* link:./contents/10_microsoft_azure/azure_cli/03_azure_cli_linux.adoc[Linux에 Azure CLI 설치]
 11. 개발 도구 설치
 a. Visual Studio Code 설치
-* link:./11_dev_tools/01_vscode/01_visualstudio_code_windows11.adoc[Windows 11에서 Visual Studio Code 설치]
-* link:./11_dev_tools/01_vscode/02_visualstudio_code_macOS.adoc[macOS에서 Visual Studio Code 설치]
-* link:./11_dev_tools/01_vscode/03_visualstudio_code_ubuntu.adoc[Ubuntu에서 Visual Studio Code 설치]
+* link:./contents/11_dev_tools/01_vscode/01_visualstudio_code_windows11.adoc[Windows 11에서 Visual Studio Code 설치]
+* link:./contents/11_dev_tools/01_vscode/02_visualstudio_code_macOS.adoc[macOS에서 Visual Studio Code 설치]
+* link:./contents/11_dev_tools/01_vscode/03_visualstudio_code_ubuntu.adoc[Ubuntu에서 Visual Studio Code 설치]
 b. Git 설치
